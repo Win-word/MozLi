@@ -6,6 +6,16 @@
 a{
   color: white;
 }
+
+#pv{
+  color: gold;
+}
+
+#mv{
+  color:red;
+}
+
+
 .mdiv{
   background-image: url("haven.jpg");
   background-color: #23114478;
